@@ -161,7 +161,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=NamanKyada01&show_icons=true&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamanKyada01&show_icons=true&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanKyada01&theme=tokyonight&hide_border=true&background=0B0F19&stroke=60A5FA&ring=818CF8&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub Streak" width="100%" />
@@ -173,7 +173,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanKyada01&theme=tokyonight&hide_border=true&layout=compact&title_color=60a5fa&text_color=94a3b8&bg_color=0b0f19" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamanKyada01&theme=tokyonight&hide_border=true&layout=compact&title_color=60a5fa&text_color=94a3b8&bg_color=0b0f19" width="60%" alt="Top Languages" />
 </div>
 
 <br/>
